@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<layout>
+  <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
+    <service-instance name="Display1" x="195" y="142"/>
+    <service-instance name="Display2" x="362" y="120"/>
+  </subflow>
+</layout>
