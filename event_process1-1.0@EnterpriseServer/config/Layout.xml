@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="ASCII"?>
 <layout>
   <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
-    <service-instance name="Display1" x="237" y="156"/>
-    <service-instance name="Display2" x="291" y="58"/>
-    <service-instance name="Display3" x="405" y="169"/>
-    <service-instance name="Display4" x="69" y="123"/>
+    <service-instance name="Display1" x="80" y="158"/>
+    <service-instance name="Display2" x="275" y="126"/>
+    <service-instance name="Display3" x="193" y="311"/>
+    <service-instance name="Display4" x="403" y="225"/>
+    <service-instance name="Display5" x="429" y="71"/>
   </subflow>
 </layout>
