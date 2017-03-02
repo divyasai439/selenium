@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application guid="EVENT_PROCESS5" version="1.0">
   <display categories="User Processes" name="Event Process5"/>
-  <creation authors="eStudio" date="01-03-2017 04:11:55"/>
+  <creation authors="eStudio" date="02-03-2017 11:52:46"/>
   <deployment label="Development"/>
   <service-instances>
     <inst name="WSStub1">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application guid="EVENT_PROCESS2" version="1.0">
   <display categories="User Processes" name="Event Process2"/>
-  <creation authors="eStudio" date="01-03-2017 03:59:27"/>
+  <creation authors="eStudio" date="02-03-2017 11:52:45"/>
   <deployment label="Development"/>
   <service-instances>
     <inst name="Display1">
